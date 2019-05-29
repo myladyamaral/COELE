@@ -1,0 +1,13 @@
+#titulo{
+  color: blue;
+}
+.container-fluid{
+  background-color: red;
+
+  min-height: 200px;
+}
+#a2{
+  background-color: green;
+
+  min-height: 400px;
+}
