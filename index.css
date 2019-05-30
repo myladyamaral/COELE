@@ -4,7 +4,7 @@
 .container-fluid{
   background-color: red;
 
-  min-height: 200px;
+  min-height: 100%;
 }
 #a2{
   background-color: green;
